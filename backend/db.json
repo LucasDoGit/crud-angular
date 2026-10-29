@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Cama",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "Mesa",
+      "price": 250
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 3
+    },
+    {
+      "name": "Cadastro via formulário",
+      "price": "1200",
+      "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": "3000",
+      "id": 6
+    },
+    {
+      "name": "Teste",
+      "price": "324234324",
+      "id": 7
+    }
+  ]
+}
